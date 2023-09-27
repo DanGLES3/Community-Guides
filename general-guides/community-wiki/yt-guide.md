@@ -2,40 +2,40 @@
 
 
 
-### **Things To Know Before You Begin** 
+## **Things To Know Before You Begin** 
 
-**a)** Check out the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
+**a)** Check out the [Frequently Asked Questions](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/faq.md#frequently-asked-questions).
 
-**b)** This guide will use the non-root RVX Manager method. Refer to the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on root installs and the other patching methods.
+**b)** This guide will use the non-root RVX Manager method. Check [inotia00's documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on root installs and the other patching methods.
 
-**c)** There is a [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) which you should check if you get stuck at any point during this tutorial.
-
-
+**c)** There is a [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) which you should check if you get stuck at any point during this tutorial.
 
 
-### **Requirements**
+
+
+## **Requirements**
 
 **a)** Your device must be running Android 8 or newer.
 
-**b)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for instructions.)
+**b)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.)
 
 
 
 
-### **1. Downloading RVX Manager, YT APK, & Vanced MicroG**
+## **1. Downloading RVX Manager, YT APK, & Vanced MicroG**
 
 **a)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-(If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.) 
+(If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for further instructions.) 
 
-**b)** Download (but do **not** bother installing) a [`18.31.40` YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-31-40-release/youtube-18-31-40-android-apk-download/).
+**b)** Download (but do **not** bother installing) a [`18.31.40` (nodpi) YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-31-40-release/youtube-18-31-40-android-apk-download/).
 
 **c)** Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). This will connect the patched YT Music app to the Google servers. You can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest) if desired.
 
 
 
 
-### **2. Patching The APK**
+## **2. Patching The APK**
 
 Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
@@ -55,13 +55,13 @@ When you are done selecting the patches you want, press "Done" and then "Patch".
 
 
 
-### **3. Installation**
+## **3. Installation**
 
 When patching is finished I do not recommend using the "Install" button in the Manager. Instead, export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager.
 
 You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
-(If you get an installation error see the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation).)
+(If you get an installation error see the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation).)
 
 
 
@@ -76,7 +76,7 @@ You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Fea
 
 
 
-#### **Open Links By Default**
+### **Open Links By Default**
 
 Follow these steps so that when you open a YouTube link it will open in the YT ReVanced Extended app instead of the official YouTube app.
 
@@ -91,7 +91,7 @@ Follow these steps so that when you open a YouTube link it will open in the YT R
 
 
 
-#### **Downloader Setup**
+### **Downloader Setup**
 
 There are three important things to know about downloading in YT ReVanced Extended.
 
@@ -120,7 +120,7 @@ Normally, you do not need to uninstall your old YT ReVanced Extended app before 
 
 
 
-#### **Keystore Info**
+### **Keystore Info**
 
 The keystore is a file that the RVX Manager (and any other ReVanced patcher) uses to sign the patched APK. If the new YT ReVanced Extended APK was signed with the same keystore as the old YT ReVanced Extended APK then you will be able to install it as an update to the old YT ReVanced Extended.
 
@@ -129,7 +129,7 @@ If you uninstall the RVX Manager or clear the app data, the keystore file will b
 
 
 
-#### **Exporting / Importing The Settings**
+### **Exporting / Importing The Settings**
 
 If you need or want to uninstall the old YT ReVanced Extended APK and install the new APK as a fresh install, you can still export the settings from the old YT ReVanced Extended app and then import that file into the new app so that you won't need to reconfigure all of your settings.
 
@@ -146,10 +146,10 @@ The standard YouTube and Return YouTube Dislike settings will still need to be c
 
 
 
-## **More Info/Troubleshooting**
+# **More Info/Troubleshooting**
 
-Check the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/) for troubleshooting help.
+Check the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#yt-revanced-extended-troubleshooting) for troubleshooting help.
 
-Check the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
+Check the [Frequently Asked Questions](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/faq.md#frequently-asked-questions).
 
 Check out [inotia00's GitHub](https://github.com/inotia00).
