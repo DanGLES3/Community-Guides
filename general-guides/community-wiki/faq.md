@@ -2,21 +2,21 @@
 
 ### **1. What is ReVanced and ReVanced Extended?**
 
-[ReVanced](https://revanced.app/) is a free modular patcher for Android apps such as YouTube. It can be used to create applications that have extra features and customizability, similar to how a browser extension works, but for an app.
+[ReVanced](https://revanced.app/) is a free modular patcher for Android apps such as YouTube. It can be used to create applications that have extra features and customizability, similar to how a browser extension works, but for apps.
 
-ReVanced Extended is a derivative project of ReVanced mainly of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended patches have some extra features on top of what ReVanced offers and is developed independently by inotia00. ReVanced Extended is not affiliated with ReVanced.
+ReVanced Extended is a derivative project of ReVanced mainly of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended focuses on providing more features than the ReVanced patches. ReVanced Extended was developed by inotia00 (until January 2024), and forks of his work are continuing to be developed by their respective maintainers. ReVanced Extended is not affiliated with ReVanced.
 
 
 
 ### **2. Is ReVanced Extended discontinued?**
 
-inotia00 announced on August 5th that the project was being discontinued. However, on September 5th he made a return and said he will be doing bug fixes for YT ReVanced Extended and adding features and fixes for YTM Extended.
+inotia00 discontinued ReVanced Extended on January 26th, 2024, and some users have had issues with the patched apps since then. However, there are several forks/adaptions of inotia00's work which are continuing to be developed, namely [ReX by YT-Advanced](https://github.com/YT-Advanced/ReX-patches) and [ReVanced Extended by anddea](https://github.com/anddea/revanced-patches).
 
 
 
 ### **3. Is ReVanced Extended safe?**
 
-Yes. MicroG, official patching tools, and the patches are all open-source. You can read the code and verify that it is safe.
+MicroG, official patching tools, and the patches are all open-source. You can read the code and verify that it is safe.
 
 
 
@@ -34,13 +34,13 @@ No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs 
 
 ### **6. Why can't I just download a pre-made APK instead of patching it myself?**
 
-Due to legal reasons, ReVanced Extended cannot be directly distributed. Anyone distributing pre-patched ReVanced or ReVanced Extended APKs is not official and potentially untrustworthy. The only guaranteed safe way to install ReVanced Extended is by patching it yourself with one of the official methods.
+Due to legal reasons, ReVanced Extended APKs cannot be directly distributed. Anyone distributing pre-patched ReVanced or ReVanced Extended APKs is not official and potentially untrustworthy. The only guaranteed safe way to install ReVanced Extended is by patching it yourself with one of the official methods.
 
 
 
 ### **7. What features are different between ReVanced Extended and ReVanced?**
 
-The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what all of the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation). Or you can check what the all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternateively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just looking at the patches list doesn't tell the full story.
+The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (note that it is a work-in-progress). You can also check what the all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternatively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just looking at the patches list doesn't tell the full story.
 
 
 

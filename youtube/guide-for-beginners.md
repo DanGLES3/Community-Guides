@@ -1,8 +1,18 @@
+## Patches might be unstable for a while. If you're having issues check recent posts for similar situations.
+
+---
+
 ### [Use the new RVX Manager created specially for ReVanced Extended patches.](https://github.com/inotia00/revanced-manager/releases/latest)
 
 
 
 
+
+**Last updated by /u/SpacellaryUS on 08/May/2024.**
+
+
+
+___
 
 
 
@@ -14,11 +24,7 @@
 
 
 
-
-
 **If you're looking for resources on how to patch on PC or other methods, please read the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).**
-
-
 
 
 
@@ -32,19 +38,7 @@
 
 
 
-**Last updated by /u/SpacellaryUS on 26/September/2023.**
-
-
-
-
-
-
-
-
-
 ### **Things To Know Before You Begin**
-
-
 
 
 
@@ -56,11 +50,7 @@
 
 
 
-
-
 * This guide is for patching YouTube.
-
-
 
 
 
@@ -72,11 +62,7 @@
 
 
 
-
-
 * This guide will use the RVX Manager patching method. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
-
-
 
 
 
@@ -90,21 +76,13 @@
 
 
 
-
-
-
-
 # **1. Requirements:**
 
 
 
 
 
-
-
 * Your device must be running Android 8.0 or newer.
-
-
 
 
 
@@ -124,27 +102,19 @@
 
 
 
-
-
-**a)** If you do not have Vanced MicroG installed, download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
-
+**a)** If you do not have **GmsCore** installed, download and install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (If you are using Hauwei or Xiomi, be sure to select the special download for your device.)
 
 
 
 
 
-
-**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.31.40` (`nodpi`) APK from [this page](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-31-40-release/youtube-18-31-40-android-apk-download/).
-
-
+**b)** Download, but do **not** install the **YouTube** `v19.16.39` (`nodpi`) APK from APKMirror [here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/).
 
 
 
 
 
 **c)** Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official Manager made to be compatible with ReVanced Extended patches.
-
-
 
 
 
@@ -158,13 +128,7 @@
 
 
 
-
-
-
-
 # **2. Patching**
-
-
 
 
 
@@ -176,11 +140,7 @@ Open the RVX Manager. Your device may open a settings page for choosing which ap
 
 
 
-
-
 Then in the Manager, go to Patcher > Select an application.
-
-
 
 
 
@@ -192,11 +152,7 @@ Press "**Storage**" [as shown in this image](https://imgur.com/a/vx64z3S).
 
 
 
-
-
 Select the YouTube APK file that you just downloaded from APKMirror from your downloads folder.
-
-
 
 
 
@@ -208,9 +164,7 @@ The application will be selected and if it is your first time patching the Defau
 
 
 
-If you don't want to use the Default selection you **must** at least include the `MicroG Support` patch.
-
-
+If you don't want to use the Default selection you **must** at least include the `GmsCore Support` patch.
 
 
 
@@ -222,11 +176,7 @@ If you don't want to use the Default selection you **must** at least include the
 
 
 
-
-
 When you are done selecting the patches press "**Done**" and then press "**Patch**".
-
-
 
 
 
@@ -240,21 +190,13 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. Do not leave
 
 
 
-
-
-
-
 ## **3. Installing**
 
 
 
 
 
-
-
 When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
-
-
 
 
 
@@ -268,13 +210,7 @@ Press "Install" and wait for it to finish installing. You may get a message sayi
 
 
 
-
-
-
-
 #### **Optional - Link Association:**
-
-
 
 
 
@@ -286,11 +222,7 @@ Follow these steps so that when you open a YouTube link it will open in the YT R
 
 
 
-
-
 (For MIUI users, use the [Hidden Settings For MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets) app, and use its Manage Applications menu to do these steps.)
-
-
 
 
 
@@ -302,11 +234,7 @@ Go to the *App Info* of YT ReVanced Extended > Set as default > Open supported l
 
 
 
-
-
 Alternatively, in YT ReVanced Extended there is a button to take you straight to the Default links settings. Tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Open default app settings.
-
-
 
 
 
@@ -330,11 +258,7 @@ ___
 
 
 
-
-
 Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for help with patching and installation.
-
-
 
 
 
@@ -346,11 +270,7 @@ Read the "Downloader Setup" section in the [YT ReVanced Extended community guide
 
 
 
-
-
 Check out [this site](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/) to see what all of the YT ReVanced Extended settings do!
-
-
 
 
 

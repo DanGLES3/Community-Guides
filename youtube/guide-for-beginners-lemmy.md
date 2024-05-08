@@ -1,3 +1,5 @@
+*Last updated on JAN/27/2024.*
+
 ### About this Guide:
 
 * This guide is for patching YouTube.
@@ -27,8 +29,7 @@ ___
 
 
 
-**1.2** Download, BUT DO NOT INSTALL the **YouTube** `v18.31.40` (`nodpi`) APK from [this page](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-31-40-release/youtube-18-31-40-android-apk-download/).
-
+**1.2** Download, but do **not** install the **YouTube** `v19.02.39` (`nodpi`) APK from APKMirror [here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-02-39-release/youtube-19-02-39-android-apk-download/).
 
 
 **1.3** Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official Manager made to be compatible with ReVanced Extended patches.
